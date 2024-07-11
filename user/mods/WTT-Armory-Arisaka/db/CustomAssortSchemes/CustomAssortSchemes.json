@@ -1,0 +1,74 @@
+{
+    "JAEGAR": {
+		"items": [
+			  {
+				"_id": "668df02f91fb737734ab9eeb",
+				"_tpl": "668c45bf9069178d4b1f225c",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+				  "StackObjectsCount": 15000,
+				  "Repairable": {
+					"Durability": 100,
+					"MaxDurability": 100
+				  }
+				}
+			  },
+			  {
+				"_id": "668f2ee02bc61a73ff5d06b8",
+				"_tpl": "668c45b3a00e210f6517e01c",
+				"parentId": "668df02f91fb737734ab9eeb",
+				"slotId": "mod_magazine"
+			 },
+			 {
+				"_id": "668f2ee47d06e94545c3ae52",
+				"_tpl": "668c45f5ccdd653a6c2d2f72",
+				"parentId": "668df02f91fb737734ab9eeb",
+				"slotId": "mod_stock"
+			 },
+			{
+				"_id": "668f2f4455fc7efd54f3d4ab",
+				"_tpl": "668c45d60bfb23cb69ba860c",
+				"parentId": "668df02f91fb737734ab9eeb",
+				"slotId": "mod_sight_rear"
+			},
+			{
+				"_id": "668f2f483f6d1077011c2376",
+				"_tpl": "668c45999646f559245e2dfb",
+				"parentId": "668df02f91fb737734ab9eeb",
+				"slotId": "mod_barrel"
+			},
+			{
+				"_id": "668f2fb9c860dd2d6b015d29",
+				"_tpl": "668c45aa8968e0b3c4819a95",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+				  "StackObjectsCount": 15000
+				}
+			}
+        ],
+        "barter_scheme": {
+			"668df02f91fb737734ab9eeb": [
+				[
+					{
+						"count": 18000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"668f2fb9c860dd2d6b015d29": [
+				[
+					{
+						"count": 300,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+		},
+		"loyal_level_items": {
+			"668df02f91fb737734ab9eeb": 1,
+			"668f2fb9c860dd2d6b015d29": 1
+		}
+    }
+}
