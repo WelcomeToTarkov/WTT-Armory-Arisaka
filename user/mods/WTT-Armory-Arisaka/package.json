@@ -1,7 +1,7 @@
 {
     "name": "WTTArmoryAri",
     "author": "Rexana",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "NCSA",
     "main": "src/mod.js",
     "sptVersion": "~3.9",
